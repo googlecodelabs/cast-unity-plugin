@@ -1,0 +1,24 @@
+This file contains licensing information for the Google Cast Remote Display
+plugin for Unity3d. The code and assets are contained in 3 locations:
+
+Plugins/Android/GoogleCastRemoteDisplay.aar:
+
+Use of the code and assets in this file are subject to the Google API Terms of
+Service (https://developers.google.com/terms/) and the Google Cast SDK
+Additional Developer Terms of Service
+(https://developers.google.com/cast/docs/terms) (collectively, "the Terms").
+Your use of this code indicates your agreement to the Terms.
+
+Plugins/GoogleCastRemoteDisplay:
+
+Please refer to the LICENSE file in this directory.
+All code and assets in this directory are licensed under the Apache 2 license
+and/or the CC-BY-4.0 license (unless stated otherwise).
+
+Plugins/iOS/GoogleCastRemoteDisplay:
+
+Use of the code in this directory is subject to the Google API Terms of Service
+(https://developers.google.com/terms/) and the Google Cast SDK Additional
+Developer Terms of Service (https://developers.google.com/cast/docs/terms)
+(collectively, "the Terms"). Your use of this code indicates your agreement to
+the Terms.
