@@ -2,6 +2,8 @@
 
 This Google Cast sample application shows how to use the Google Cast Remote Display plugin for Unity.
 
+**Support for this plugin has been deprecated.**
+
 ## Dependencies
 * Unity 5.2.2 or later
 * If you are supporting Android, download the Android SDK: https://developer.android.com/sdk/index.html#Other
